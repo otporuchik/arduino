@@ -1,4 +1,5 @@
 //matrix 8x8
+//paints simple big X
 const int row[8] = {2, 3, 4, 5, 6, 7, 8, 9};
 const int col[8] = {10, 11, 12, 13, A0, A1, A2, A3};
 
